@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+[![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)](https://Ashish23-Karn.io)
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">An aspiring and detail-oriented data analyst from India with strong mathematical skills and statistical knowledge with keen interest in handling and manipulating the data and to provide useful insights.</h3>
+<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish23-karn&label=Profile%20views&color=0e75b6&style=flat" alt="aashish23-karn" /> </p>
 
