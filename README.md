@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SQL, Excel, PowerBi, Python**
 
-- 📫 How to reach me **https://github.com/Ashish23-Karn**
+- 📫 How to reach me **www.linkedin.com/in/ashishchaudhary23**
 
 - ⚡ Fun fact **I always remains in learning**
 
